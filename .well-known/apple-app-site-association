@@ -19,6 +19,17 @@
             "comment": "Search"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "6YF7SNYHTV.io.github.yujiikebata.deeplinks.newsui"
+        ],
+        "components": [
+          {
+            "/": "/ui/*",
+            "comment": "SwiftUI lifecycle spike app"
+          }
+        ]
       }
     ]
   }
