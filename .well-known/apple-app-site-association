@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6YF7SNYHTV.io.github.yujiikebata.deeplinks.news"
+        ],
+        "components": [
+          {
+            "/": "/articles/*",
+            "comment": "Article detail"
+          },
+          {
+            "/": "/features/*",
+            "comment": "Feature page"
+          },
+          {
+            "/": "/search",
+            "comment": "Search"
+          }
+        ]
+      }
+    ]
+  }
+}
