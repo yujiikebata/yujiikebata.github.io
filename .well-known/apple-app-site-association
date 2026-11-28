@@ -17,6 +17,14 @@
           {
             "/": "/search",
             "comment": "Search"
+          },
+          {
+            "/": "/saved",
+            "comment": "Saved articles (login required)"
+          },
+          {
+            "/": "/series/*",
+            "comment": "Series page"
           }
         ]
       },
